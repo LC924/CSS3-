@@ -1,0 +1,14 @@
+body {
+	background-color: #fff;
+}
+.navbar {
+	width: 100%;
+	margin: 0 auto;
+	
+}
+.logo,.form,.links {
+	padding-left: 10px;
+}
+.navbar label {
+	margin-right: 10px;
+}
